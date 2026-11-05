@@ -1,0 +1,15 @@
+Yumcook's Game
+==============
+
+Windows quick start
+1. Extract the YumcooksGame-share.zip file.
+2. Double-click YumcooksGame.exe to play. No Python installation is needed.
+3. Enter your name, then choose Normal, Medium, or Hard.
+4. Press Space, Up Arrow, or click to fly the paper plane.
+
+Scores are saved on this computer in your local app-data folder. They are
+not sent with the game and are not shared between computers.
+
+If Windows shows a SmartScreen warning for this unsigned game, only run it if
+you trust the person who sent it. You can scan the ZIP with your antivirus
+before extracting it.
