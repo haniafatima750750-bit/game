@@ -3,7 +3,7 @@
 This is my first game! It's a little paper-plane flying game, and I'd love to
 hear what you think. If you have ideas for making it look or play better, feel
 free to share them.
-
+Its not a professional type of game.. just me and my experiments.
 ## Download and play
 
 **This game is only for Windows computers. It does not run on Android or
